@@ -1,0 +1,15 @@
+# Ignore VSCode source .deb
+/VSCode/src/code_1.66.2-1649664567_amd64.deb
+
+# Ignore Nodejs source and binaries 
+/Nodejs/src/node-v16.15.0-linux-x64.tar.xz
+/Nodejs/node-v16.15.0-linux-x64
+
+# Ignore Java OpenJDK source and binaries
+/Java/OpenJDK/src/openjdk-11+28_linux-x64_bin.tar.gz
+/Java/OpenJDK/jdk-11
+
+# Ignore Android source and binaries
+/Android/android-studio
+/Android/SDK
+/Android/src/android-studio-2021.2.1.14-linux.tar.gz
