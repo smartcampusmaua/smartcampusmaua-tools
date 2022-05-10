@@ -4,7 +4,7 @@
 
 *From: https://code.visualstudio.com/*
 
-Download the Linux x64 .deb file at `https://code.visualstudio.com/` website
+Download the Linux x64 `.deb` file at `https://code.visualstudio.com/` website
 
 Move the .deb file to the `~/smartcampusmaua/smartcampusmaua-tools/VSCode/src` directory
 ```bash
