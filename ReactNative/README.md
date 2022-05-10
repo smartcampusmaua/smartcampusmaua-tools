@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-To configure the React Native Envioronment and development for Android, please install the softwares listed bellow. The instructions for each software can be found at `https://github.com/smartcampusmaua.com/smartcampusmaua-tools`:
+To configure the React Native Envioronment and development for Android, please install the softwares listed bellow. The instructions for each software can be found at `https://github.com/smartcampusmaua/smartcampusmaua-tools`:
 
   * Node.js 16 (LTS) with Yarn;
   * Java OpenJDK 11 (LTS);
